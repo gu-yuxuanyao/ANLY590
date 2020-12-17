@@ -18,7 +18,7 @@ The main purpose of this project is to classify the speech audio files.
 
 *https://www.kaggle.com/c/tensorflow-speech-recognition-challenge*
 
-# Process
+## Process
 
 We mainly followe these steps to do this project: 
 1. data visualization [Data Visualization](https://github.com/gu-yuxuanyao/ANLY590/blob/master/Final%20Project/final_processing.ipynb)

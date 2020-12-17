@@ -14,6 +14,10 @@ This project is about our ANLY590 (Deep Learning) course.
 
 The main purpose of this project is to classify the speech audio files.
 
+### DataSet
+
+*https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
+
 # Process
 
 We mainly followe these steps to do this project: 

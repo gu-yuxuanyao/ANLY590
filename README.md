@@ -6,7 +6,7 @@ Name: Yuxuan Yao
 
 NetID: yy560
 
-# ANLY590 Final Project （**[Final Project](Final Project)**）
+# ANLY590 Final Project （**[Final Project](https://github.com/gx26/Cancer_Rate**）
 
 # Introduction
 

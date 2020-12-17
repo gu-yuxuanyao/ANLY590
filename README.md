@@ -6,7 +6,7 @@ Name: Yuxuan Yao
 
 NetID: yy560
 
-# ANLY590 Final Project
+# ANLY590 Final Project （**[Final Project](Final Project)**）
 
 # Introduction
 

@@ -6,7 +6,7 @@ Name: Yuxuan Yao
 
 NetID: yy560
 
-# ANLY590 Final Project **[Final Project](https://github.com/gu-yuxuanyao/ANLY590/tree/master/Final%20Project**
+# ANLY590 Final Project (**[Final Project](https://github.com/gu-yuxuanyao/ANLY590/tree/master/Final%20Project**)
 
 # Introduction
 
